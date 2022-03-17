@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfB68395323346770ae0209B98F7d0eFf3Bc0fA5d",
+  "SCAN_LINK": "https://polygonscan.com/address/0xfB68395323346770ae0209B98F7d0eFf3Bc0fA5d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixel Ape Social Club (GEN 02)",
+  "SYMBOL": "PASC GEN02",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pascgen02",
+  "SHOW_BACKGROUND": true
+}
