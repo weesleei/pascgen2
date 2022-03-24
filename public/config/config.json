@@ -9,7 +9,7 @@
   "NFT_NAME": "Pixel Ape Social Club (GEN 02)",
   "SYMBOL": "PASC GEN02",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 0,
+  "WEI_COST": 610000000000000000,
   "DISPLAY_COST": 0.61,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
